@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+.timerBlock {
+    margin-top: 30px;
+}
+
+h1 {
+    color: #00fa00;
+    width: 225px;
+    text-align: center;
+}
+
+button {
+    margin-left: 10px;
+    background-color: transparent;
+    color: white;
+    outline: none;
+    border-radius: 34%;
+    width: 100px;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.tape {
+    background-color: #00fa00;
+    height: 40px;
+    margin-top: 10px;
+}
